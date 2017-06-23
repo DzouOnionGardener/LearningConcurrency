@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/CC_HelloWorld.dir/main.cpp.o  -o CC_HelloWorld -lpthread 

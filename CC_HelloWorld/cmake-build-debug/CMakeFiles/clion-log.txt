@@ -1,0 +1,4 @@
+/home/dzou/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dzou/CLionProjects/Concurrency/CC_HelloWorld
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dzou/CLionProjects/Concurrency/CC_HelloWorld/cmake-build-debug

@@ -1,0 +1,3 @@
+/home/dzou/CLionProjects/Concurrency/CC_HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dzou/CLionProjects/Concurrency/CC_HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dzou/CLionProjects/Concurrency/CC_HelloWorld/cmake-build-debug/CMakeFiles/CC_HelloWorld.dir
